@@ -1,7 +1,7 @@
 ## CSA38 ACRE2 Compatibility
 <p align="left">
     <a href="https://github.com/Drofseh/CSA38_ACRE2_Compat/releases/latest">
-        <img src="https://i.imgur.com/vSC3arb.png" alt="CSA38/ACRE2 Compat">
+        <img src="https://i.imgur.com/4Yx75rs.png" alt="CSA38/ACRE2 Compat">
     </a>
 </p>
 <p align="left">
