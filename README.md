@@ -28,7 +28,7 @@ This means that you won't be forced to have a player in the radio operators seat
 The correct radio operator seat must still be used to access the radio GUI and change radio frequencies.
 
 #### Requirements
-* CSA38 0.5.187
+* CSA38 Update: 22 Jan 2020
 * ACRE2 v2.6.2.996
 * ACE3 v3.12.6
 
