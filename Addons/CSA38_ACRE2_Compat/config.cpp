@@ -21,4 +21,6 @@ class cfgVehicles {
 
     #include "CSA38_Wheeled.hpp"
 
+    #include "CSA38_Wheeled_APC.hpp"
+
 };
